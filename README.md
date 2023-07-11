@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ### Запрос 1:	учесть в калькуляторе корректировку планов маркетинга
 Сделано:
 
@@ -28,7 +24,8 @@
 			
 ### Итог:	
 
-:white_check_mark: Собран калькулятор юнит-экономики		
+:white_check_mark: Собран калькулятор юнит-экономики
+
 :white_check_mark: Обновлён план по найму - с количеством новых преподавателей по месяцам за период с 05.2021 по 04.2022
 
 ### Визуализация:
@@ -46,7 +43,9 @@
 
 ### Полный файл с решением:
 
-:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-1">Ссылка на проект 1</a>
+:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-1/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.xlsx">Ссылка на проект 1</a>
+
+Кликаем View raw и файл будет скачиваться 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
