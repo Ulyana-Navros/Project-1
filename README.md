@@ -6,7 +6,7 @@
 
 Сделано:
 
-:white_check_mark: собран калькулятор юнит-экономики
+:white_check_mark: Собран калькулятор юнит-экономики
 
 :white_check_mark: Добавлен в список параметров калькулятора показатель "Поправочный коэф-т на привлечение"
 
@@ -50,7 +50,7 @@
 
 :arrow_right: <a href="https://github.com/Ulyana-Navros/Project-1/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.xlsx">Ссылка на проект 1</a>
 
-Кликаем View raw и файл будет скачиваться 
+Кликаем View raw и файл будет скачиваться :heavy_check_mark:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
