@@ -28,9 +28,25 @@
 			
 ### Итог:	
 
-:white_check_mark: Обновлённый план по найму - с количеством новых преподавателей по месяцам за период с 05.2021 по 04.2022		
+:white_check_mark: Собран калькулятор юнит-экономики		
+:white_check_mark: Обновлён план по найму - с количеством новых преподавателей по месяцам за период с 05.2021 по 04.2022
 
+### Визуализация:
+<img width="945" alt="Screenshot_3" src="https://github.com/Ulyana-Navros/Project-1/assets/139130975/eca1e2f1-d7fd-45f7-af89-7472d5c7ec75">
 
+![Рисунок18](https://github.com/Ulyana-Navros/Project-1/assets/139130975/7de02c68-7577-4066-bd28-b19203de7f4f)
+
+![Рисунок16](https://github.com/Ulyana-Navros/Project-1/assets/139130975/453dc003-8143-4d36-9111-e7f1d0bb5039)
+
+![Рисунок15](https://github.com/Ulyana-Navros/Project-1/assets/139130975/1e1c4c63-33cd-47bd-a412-07546f8afa64)
+
+![Рисунок17](https://github.com/Ulyana-Navros/Project-1/assets/139130975/4597f6ca-f1b1-401f-bd8c-b65bb4919de1)
+
+![Рисунок14](https://github.com/Ulyana-Navros/Project-1/assets/139130975/bcffc75c-cb48-48ee-9a22-a72cafa5ecdb)
+
+### Полный файл с решением:
+
+:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-1">Ссылка на проект 1</a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
